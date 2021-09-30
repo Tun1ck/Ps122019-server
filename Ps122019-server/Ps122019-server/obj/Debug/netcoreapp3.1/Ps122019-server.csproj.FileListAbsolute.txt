@@ -143,9 +143,9 @@ C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-se
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\staticwebassets\Ps122019-server.StaticWebAssets.Manifest.cache
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\staticwebassets\Ps122019-server.StaticWebAssets.xml
-C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\scopedcss\bundle\Ps122019-server.styles.css
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.RazorTargetAssemblyInfo.cache
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.csproj.CopyComplete
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.dll
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.pdb
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.genruntimeconfig.cache
+C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
