@@ -27,6 +27,7 @@ namespace Ps122019_server
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<NoteContext>(opt=>opt.UseInMemoryDatabase("TestDatabase"));
+            services.AddDbContext<ItemsListContext>(opt => opt.UseInMemoryDatabase("TestDatabase"));
             services.AddControllers();
         }
 

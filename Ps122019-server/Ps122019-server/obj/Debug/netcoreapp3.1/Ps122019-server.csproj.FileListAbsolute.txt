@@ -139,8 +139,6 @@ C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-se
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.csprojAssemblyReference.cache
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.AssemblyInfoInputs.cache
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.AssemblyInfo.cs
-C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.csproj.CoreCompileInputs.cache
-C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\staticwebassets\Ps122019-server.StaticWebAssets.Manifest.cache
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\staticwebassets\Ps122019-server.StaticWebAssets.xml
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.RazorTargetAssemblyInfo.cache
@@ -149,3 +147,7 @@ C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-se
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.pdb
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.genruntimeconfig.cache
 C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\GitHub\Ps122019-server\Ps122019-server\Ps122019-server\obj\Debug\netcoreapp3.1\Ps122019-server.MvcApplicationPartsAssemblyInfo.cache
