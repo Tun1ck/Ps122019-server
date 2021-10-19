@@ -26,6 +26,8 @@ namespace Ps122019_server
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors();
+
             services.AddDbContext<NoteContext>(opt=>opt.UseInMemoryDatabase("TestDatabase"));
             services.AddDbContext<ItemsListContext>(opt => opt.UseInMemoryDatabase("TestDatabase"));
             services.AddControllers();
@@ -38,6 +40,7 @@ namespace Ps122019_server
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseCors(option => option.WithOrigins("http://localhost:8080").AllowAnyHeader().AllowAnyHeader());
 
             app.UseRouting();
 
