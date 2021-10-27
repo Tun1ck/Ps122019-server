@@ -80,6 +80,7 @@ namespace Ps122019_server.Controllers
         [HttpPost]
         public async Task<ActionResult<Note>> PostNote(Note note)
         {
+            note.CreateTime = DateTime.UtcNow; 
             _context.Notes.Add(note);
             await _context.SaveChangesAsync();
 

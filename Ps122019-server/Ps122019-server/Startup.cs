@@ -40,7 +40,7 @@ namespace Ps122019_server
             {
                 app.UseDeveloperExceptionPage();
             }
-            app.UseCors(option => option.WithOrigins("http://localhost:8080").AllowAnyHeader().AllowAnyHeader());
+            app.UseCors(option => option.WithOrigins("http://localhost:8080").AllowAnyHeader().AllowAnyMethod());
 
             app.UseRouting();
 
